@@ -133,6 +133,6 @@ lemma abs_one : ∀ (K : Type) [Field K] (abv : absolute_value K), abv.abv 1 = 1
       -- use the fact that no element except 1 squares to 1
       sorry
     exact h''
-
+  sorry
 
 end Betraege
